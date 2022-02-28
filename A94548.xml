@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings Most Excellent Majestie, the humble petition of vs the inhabitants of Lancashire, whose names are hereunder written, in the behalfe of our selves and divers others, being recusants ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94548</idno>
+            <idno type="STC">Wing T1544</idno>
+            <idno type="STC">ESTC R228181</idno>
+            <idno type="EEBO-CITATION">43077688</idno>
+            <idno type="OCLC">ocm 43077688</idno>
+            <idno type="VID">151800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151800)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings Most Excellent Majestie, the humble petition of vs the inhabitants of Lancashire, whose names are hereunder written, in the behalfe of our selves and divers others, being recusants ...</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>With the King's reply.</note>
+                  <note>Imperfect: badly stained.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Lancashire.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:151800:1"/>
+            <!-- PDF PAGE 31 -->
+            <head>TO THE KINGS MOST Excellent Majeſtie, The humble Petition of Vs the Inhabitants of <hi>Lancaſhire,</hi> whoſe names are hereunder writ<g ref="char:EOLhyphen"/>ten, in the behalfe of our Selves and divers others, being Recuſants:</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas we and the reſt of the ſaid Countie, Your Majeſties moſt loyall Subjects, are diſar<g ref="char:EOLhyphen"/>med, and not ſufficiently provided for the defence of Your Royall Perſon and our owne families; Our moſt humble Supplication to Your Majeſty is, That we may be received into Your moſt gracious pro<g ref="char:EOLhyphen"/>tection from violence, have our Armes taken from us, re-deli<g ref="char:EOLhyphen"/>vered in this time of actuall War, and by Your Majeſties ſpeci<g ref="char:EOLhyphen"/>all directions be inabled further to furniſh our ſelves with com<g ref="char:EOLhyphen"/>petency of weapons for the ſecurity of Your Royall Perſon (if we be thereunto required) our Countries and Families, who now are not onely in danger of the common diſturbance; but alſo menaced by unruly people to be robbed: And when by the Almighties aſsiſtance Your Majeſties Kingdome ſhall be ſettled, in caſe we be again diſ-armed, that a full value in mony in liew thereof to us may be reſtored:</p>
+            <closer>
+               <signed>And we ſhall daily pray, &amp;c. <hi>W.G.C.Tr.C.T.Chr.An.Io.C.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:151800:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>To Our Truſty and Welbeloved
+<hi>Sir William Gerard Baronet, Sir Cecill Trafford Knight, Thomas Clifton, Charle Townley, Chriſtopher Anderton, and John Clansfield and other of Our Subj<gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Recuſants, Eſquires, in the County of Lancaſter.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>Truſty and Welbeloved,</salute>
+            </opener>
+            <p>WEe greet you well, whereas by reaſon of the Lawes and Statutes of our Realme, by which all Recuſants convicted are to be without Arms, your Arms have been taken from you; ſo that now in this time of immiment danger, wherein there are Armies raiſed againſt Our Commands, and contrary to Our Proclamations, and are marching againſt <g ref="char:V">Ʋ</g>s, and divers of Our good Subjects, for obeying Our lawfull Commands and oppoſing the rebellious proceedings of others ill-affected, are by ſtrong hand ſeized upon and impri<g ref="char:EOLhyphen"/>ſoned, their houſes plundered, and their goods taken away; and the like is threatned to our ſelves, who as all others Our Subjects ought to have Our protection againſt all unlawfull violence and force: And the Laws made for diſ-arming Recuſants were made onely for a proviſion to prevent danger in time of peace, &amp; were not intended to bar you from a neceſ<g ref="char:EOLhyphen"/>ſary uſe of Arms in time of actuall war, for your own ſafety, or for the defence of Our Per<g ref="char:EOLhyphen"/>ſon againſt all Rebels and Enemies, which by your duty and allegiance you are bound unto; which is not, nor ever was meant to be diſcharged or taken away by any Act; And where<g ref="char:EOLhyphen"/>as the Arms which were taken from you, ought by Law to have been kept and preſerved to have been made uſe of by you in ſuch time of open war, or of ſuch others as you ſhould pro<g ref="char:EOLhyphen"/>vide: yet under the ſpecious pretence of diſ-arming Recuſants, and perſons ill-affected, your Arms have been diſpoſed and diſperſed into the hands of ſeverall perſons ill-affected, and for the moſt part Fomenters and Exciters of theſe Commotions now raiſed in this Kingdom; Our Will and Command therefore is, and We charge and require you upon your Allegiance, and as you tender the ſafety of Our Perſon, and the peace and welfare of Our Kingdom, That you with all poſſible ſpeed provide ſufficient Armes for your ſelves, your ſervants, and your tenants, which We authorize and require during the time of open war raiſed againſt <g ref="char:V">Ʋ</g>s, to keep and uſe for the defence of <g ref="char:V">Ʋ</g>s, and of your ſelves, and of your Country, againſt all Forces and Arms raiſed, or to be raiſed againſt <g ref="char:V">Ʋ</g>s, or againſt Our conſent, or contrary to Our Proclamations, by colour of any Order, or Ordinance, or Authority whatſoever: And We ſhall (according as We are bound to all Our Subjects) uſe Our utmoſt powers for the protection of you and yours, againſt all injuries and vio<g ref="char:EOLhyphen"/>lence. And whenſoever theſe Arms which you ſhall ſo provide (after it ſhall pleaſe God to put an end to theſe dangers and diſtractions) ſhall be taken away from your cuſtody, by reaſon of Our Laws now in this force; We doe hereby aſſure you, We will allow you for the ſame, ſo much as you ſhall have diſpended in proviſion thereof.</p>
+            <closer>
+               <dateline>Given under Our Signet at Our Court at <hi>Cheſter,</hi>
+                  <date>the 27<g ref="char:punc">▪</g> of September, in the eighteenth year of Our Raigne.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <pb facs="tcp:151800:2"/>
+               <!-- PDF PAGE 32 -->
+               <p>
+                  <list>
+                     <item>Sir William Riddell.</item>
+                     <item>Sir Edw. Widdrington.</item>
+                     <item>Sir Era. Howard.</item>
+                     <item>Sir Nic. Thornton.</item>
+                     <item>Col. Tho. Howard.</item>
+                     <item>M. Lance Errington.</item>
+                     <item>M. Errington of Befron.</item>
+                     <item>M. Geo. Wray.</item>
+                     <item>M. Ralph Mellet.</item>
+                     <item>M. Chr. Wray.</item>
+                     <item>M. Lambton.</item>
+                     <item>M. Hodgeſon.</item>
+                     <item>M. Smith.</item>
+                     <item>M. David Errington.</item>
+                     <item>M. Pudſey.</item>
+                     <item>M. Antho. Bulmer.</item>
+                     <item>M. Jo. Bulmer.</item>
+                     <item>M. Askwith.</item>
+                     <item>M. Geo. Collingwood.</item>
+                     <item>M. Forcer.</item>
+                     <item>M. Evers.</item>
+                     <item>M. Holtby.</item>
+                     <item>M. Evers.</item>
+                     <item>M. William Fenwicke.</item>
+                     <item>M. Ratcliffe.</item>
+                     <item>M. Haggerſton.</item>
+                     <item>M. Forcer.</item>
+                     <item>M. Edw. Gray.</item>
+                  </list>
+               </p>
+               <p>Theſe are the Names of divers of the Collonels, Lieutenants Collonels, Sergeant Majors, Captaines, and Lieutenants that are Papiſts, and Com<g ref="char:EOLhyphen"/>manders in the Army, under the command of the Earle of <hi>Newcaſtle.</hi>
+               </p>
+               <closer>
+                  <signed>H. Elſynge, Cler. Parl. Dom. Com.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:151800:3"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </body>
+   </text>
+</TEI>
